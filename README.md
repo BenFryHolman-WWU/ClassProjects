@@ -18,13 +18,13 @@ CSCI 145: Java
 
 CSCI 241: Java
 
-  A1-
+  A1- Sorting
   
-  A2-
+  A2- AVL Tree
   
-  A3-
+  A3- Heaps and Hashes
   
-  A4-
+  A4- Graphing Plane Paths
   
 CSCI 247: C - Final Project Only
 
