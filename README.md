@@ -26,28 +26,9 @@ CSCI 241: Java
   
   A4-
   
-  A5-
-  
-  
-CSCI 247: C
+CSCI 247: C - Final Project Only
 
-  A1-
-  
-  A2-
-  
-  A3-
-  
-  A4-
-  
-  A5-
-  
-  A6-
-  
-  A7-
-  
-  A8-
-
-DATA 311: Python - Olympics Project
+DATA 311: Python - Final Olympics Project Only
 
 CS 347: C - In Progress
 
