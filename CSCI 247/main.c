@@ -11,7 +11,7 @@
 #include "control.h"
 
 
-// Read Image File. Return 0 on success or -1 for failure
+// Read Image File. Returns a 0 on success or -1 for failure
 static int read_image_file(x16_t* machine, FILE* fp) {
     // The origin tells us where in memory to place the image
     uint16_t origin;
